@@ -12,7 +12,7 @@ function Home() {
         <div className="prompt">
             <p>A software developer with a passion for learning and creating</p>
             <a href="https://www.linkedin.com/in/garrett-waters-7953a2220/" target="_blank"><LinkedInIcon/></a>
-            <a href="https://drive.google.com/file/d/1h7GiAVK6-LuupMxgTS65tGbth6ABxZjk/view?usp=sharing" target="_blank"><EmailIcon/></a>
+            <a href="https://drive.google.com/file/d/1hDCfY7hVz9YQmAZvJf4mizhYpqfo0hIp/view" target="_blank"><EmailIcon/></a>
             <a href="https://github.com/GarrettWat" target="_blank"><GithubIcon/></a>
         </div>
        </div>
