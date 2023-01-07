@@ -11,7 +11,6 @@ function Footer() {
   return (
     <div className='footer'>
         <div className='socialMedia'> 
-            <a href='https://www.facebook.com/profile.php?id=100043461401349' target="_blank"><FacebookIcon/></a>
             <a href='https://twitter.com/WateGarrett' target="_blank"><TwitterIcon/></a>
             <a href='https://www.linkedin.com/in/garrett-waters-7953a2220/' target="_blank"><LinkedInIcon/></a>
         </div>
