@@ -32,5 +32,12 @@ export const ProjectList = [
       image: proj3,
       skills: "React, JavaScript, HTML, CSS, MUI",
       git: 'https://github.com/GarrettWat/YY-Clone',
+      li,nk: 'https://utubeclonereact.netlify.app'
+    }
+    {
+      name: "Stock Checker",
+      image: proj3,
+      skills: "React, JavaScript, HTML, CSS, MUI",
+      git: 'https://github.com/GarrettWat/YY-Clone',
       link: 'https://utubeclonereact.netlify.app'
     }]
