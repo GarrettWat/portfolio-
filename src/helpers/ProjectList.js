@@ -2,6 +2,7 @@ import proj1 from '../assets/proj1.png'
 import proj2 from '../assets/proj2.png'
 import proj3 from '../assets/proj3.png'
 import proj4 from '../assets/image.png'
+import proj5 from '../assets/proj4.png'
 
 
 
@@ -32,12 +33,12 @@ export const ProjectList = [
       image: proj3,
       skills: "React, JavaScript, HTML, CSS, MUI",
       git: 'https://github.com/GarrettWat/YY-Clone',
-      li,nk: 'https://utubeclonereact.netlify.app'
-    }
+      link: 'https://utubeclonereact.netlify.app'
+    },
     {
       name: "Stock Checker",
-      image: proj3,
-      skills: "React, JavaScript, HTML, CSS, MUI",
-      git: 'https://github.com/GarrettWat/YY-Clone',
-      link: 'https://utubeclonereact.netlify.app'
+      image: proj5,
+      skills: "React, JavaScript, HTML, CSS, Tailwind CSS",
+      git: 'https://github.com/GarrettWat/Stock-Checker',
+      link: 'https://stockchecker.netlify.app/'
     }]
