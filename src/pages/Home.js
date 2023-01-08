@@ -16,6 +16,16 @@ function Home() {
             <a href="https://github.com/GarrettWat" target="_blank"><GithubIcon/></a>
         </div>
        </div>
+        <div className='aboutMe'>
+          <h1>About Me</h1>
+          <p><strong>Greetings! Here's a little bit about me.</strong></p>
+          <p>I wrote my first line of code 5 years ago Sophmore year
+              of high school. I was instantly hooked. I loved how I could
+              create something from nothing, and I could make it exactly how
+              I wanted it to be. I started learning Python, then branched out
+              into front end technologies.
+          </p>
+        </div>
        <div className="skills">
         <h1>Skills</h1>
         <ol className='list'>
