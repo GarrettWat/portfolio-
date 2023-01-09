@@ -14,7 +14,7 @@ function Footer() {
             <a href='https://twitter.com/WateGarrett' target="_blank"><TwitterIcon/></a>
             <a href='https://www.linkedin.com/in/garrett-waters-7953a2220/' target="_blank"><LinkedInIcon/></a>
         </div>
-        <p> &copy; 2022 Garrett Waters</p>
+        <p> &copy; 2023 Garrett Waters</p>
     </div>
   )
 }

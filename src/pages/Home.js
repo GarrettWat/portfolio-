@@ -23,23 +23,24 @@ function Home() {
               of high school. I was instantly hooked. I loved how I could
               create something from nothing, and I could make it exactly how
               I wanted it to be. I started learning Python, then branched out
-              into front end technologies.
+              into front end technologies, starting with HTML and CSS. I then
+              dove down the rabbit hole of JavaScript, and I haven't looked back.
           </p>
         </div>
        <div className="skills">
         <h1>Skills</h1>
         <ol className='list'>
         <li className='item'>
-            <h2>Front-End</h2>
-            <span>React, HTML, CSS, NPM, Material UI</span>
+            <h2>Programming Languages</h2>
+            <span>JavaScript, TypeScript, HTML, CSS</span>
         </li>
         <li className='item'>
-            <h2>Launguages</h2>
-            <span>Python, JavaScript, Typescript</span>
+            <h2>Frameworks</h2>
+            <span>React, Bootstrap, NodeJS, Restful API's, Tailwind CSS, ExpressJS</span>
         </li>
         <li className='item'>
             <h2>Tools</h2>
-            <span>Firebase, Github, Heroku, Netlify</span>
+            <span>Anaconda, Node Package Manager (NPM), Command Line, Github, Git, Heroku, Jupyter Notebook, Slack, Visual Studio Code, Netlify </span>
         </li>
         </ol>
        </div>

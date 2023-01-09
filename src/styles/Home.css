@@ -79,7 +79,7 @@
       font-size: 40px;
     }
     .aboutMe {
-      height: calc(150vh - 100px);
+      height: calc(175vh - 100px);
     }
   
     .about .prompt {
