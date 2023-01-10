@@ -5,7 +5,7 @@ web app that displays past projects, experience, and skills.
 
 
 ## Dev Dependencies
-- Tailwind CSS
+- JestJS
 - Material UI
 - React
 - React DOM
