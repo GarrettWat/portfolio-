@@ -11,8 +11,8 @@ function Footer() {
   return (
     <div className='footer'>
         <div className='socialMedia'> 
-            <a href='https://twitter.com/WateGarrett' target="_blank"><TwitterIcon/></a>
-            <a href='https://www.linkedin.com/in/garrett-waters-7953a2220/' target="_blank"><LinkedInIcon/></a>
+            <a href='https://twitter.com/WateGarrett' target="_blank" title='Twitter'><TwitterIcon/></a>
+            <a href='https://www.linkedin.com/in/garrett-waters-7953a2220/' target="_blank" title='LinkedIn'><LinkedInIcon/></a>
         </div>
         <p> &copy; 2023 Garrett Waters</p>
     </div>

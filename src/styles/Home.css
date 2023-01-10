@@ -7,29 +7,29 @@
   
   .about {
     width: 100%;
-    height: calc(100vh - 100px);
+    min-height: calc(100vh - 100px);
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
     background-color: #97BC62FF;
-    color: #f0f0f0;
+    color: #2C5F2D;
   }
   .aboutMe {
     font-size: 35px;
     width: 100%;
-    height: calc(70vh - 100px);
+    min-height: calc(70vh - 100px);
     display: flex;
     flex-direction: column;
     /* justify-content: center; */
     /* align-items: center; */
     /* text-align: center; */
     background-color: #f0f0f0;
-    color: #2C5F2D;
+    color: #72904a ;
   }
   .aboutMe p{
-    color: #97BC62FF;
+    color: #72904a ;
   }
   
   .about h2 {
@@ -46,7 +46,7 @@
   .prompt svg {
     font-size: 60px;
     margin: 5px;
-    color: white;
+    color: #2C5F2D;
   }
   
   .skills {
@@ -58,7 +58,7 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    color: white;
+    color: #364536 ;
   }
   
   .skills h1, h2 {
@@ -79,7 +79,7 @@
       font-size: 40px;
     }
     .aboutMe {
-      height: calc(175vh - 100px);
+      min-height: calc(175vh - 100px);
     }
   
     .about .prompt {

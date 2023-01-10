@@ -3,11 +3,18 @@ import proj2 from '../assets/proj2.png'
 import proj3 from '../assets/proj3.png'
 import proj4 from '../assets/image.png'
 import proj5 from '../assets/proj4.png'
+import proj6 from '../assets/image4.png'
 
 
 
 
 export const ProjectList = [
+    {
+      name: "Portfolio",
+      image: proj6,
+      skills: "React, JavaScript, HTML, CSS, Material UI, A11y, Jest, React Testing Library",
+      git: 'https://github.com/GarrettWat/portfolio-',
+    },
     {
       name: "Nasa101",
       image: proj4,

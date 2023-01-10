@@ -6,14 +6,14 @@ import "../styles/Home.css"
 
 function Home() {
   return (
-    <div className='home'>
+    <div className='home' data-testid="home-page">
        <div className="about">
         <h2>Hi, My Name is Garrett</h2>
         <div className="prompt">
             <p>A software developer with a passion for learning and creating</p>
-            <a href="https://www.linkedin.com/in/garrett-waters-7953a2220/" target="_blank"><LinkedInIcon/></a>
-            <a href="https://drive.google.com/file/d/1hDCfY7hVz9YQmAZvJf4mizhYpqfo0hIp/view" target="_blank"><EmailIcon/></a>
-            <a href="https://github.com/GarrettWat" target="_blank"><GithubIcon/></a>
+            <a href="https://www.linkedin.com/in/garrett-waters-7953a2220/" target="_blank" title="LinkedIn"><LinkedInIcon/></a>
+            <a href="https://drive.google.com/file/d/1hDCfY7hVz9YQmAZvJf4mizhYpqfo0hIp/view" target="_blank" title='Resume'><EmailIcon/></a>
+            <a href="https://github.com/GarrettWat" target="_blank" title='Github'><GithubIcon/></a>
         </div>
        </div>
         <div className='aboutMe'>
@@ -40,7 +40,7 @@ function Home() {
         </li>
         <li className='item'>
             <h2>Tools</h2>
-            <span>Anaconda, Node Package Manager (NPM), Command Line, Github, Git, Heroku, Jupyter Notebook, Slack, Visual Studio Code, Netlify </span>
+            <span>a11y, Jest, Anaconda, Node Package Manager (NPM), Command Line, Github, Git, Heroku, Jupyter Notebook, Slack, Visual Studio Code, Netlify </span>
         </li>
         </ol>
        </div>
