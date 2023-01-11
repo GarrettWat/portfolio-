@@ -1,5 +1,5 @@
 import proj1 from '../assets/proj1.png'
-import proj2 from '../assets/proj2.png'
+import proj2 from '../assets/image5.png'
 import proj3 from '../assets/proj3.png'
 import proj4 from '../assets/image.png'
 import proj5 from '../assets/proj4.png'
@@ -29,11 +29,11 @@ export const ProjectList = [
       git: 'https://github.com/GarrettWat/weather-app2'
     },
     {
-      name: "Steam Sale Finder",
+      name: "Level Up Gaming",
       image: proj2,
-      skills: "React, TypeScript, Firebase, HTML, CSS, MUI",
-      git: 'https://github.com/GarrettWat/ct-final',
-      link: 'https://steamchecker.netlify.app'
+      skills: "React, HTML, CSS, MUI",
+      git: 'https://github.com/GarrettWat/Game-Checker',
+      link: 'https://level-up-gaming.netlify.app/'
     },
     {
       name: "Youtube Clone",
