@@ -4,6 +4,7 @@ import proj3 from '../assets/proj3.png'
 import proj4 from '../assets/image.png'
 import proj5 from '../assets/proj4.png'
 import proj6 from '../assets/image4.png'
+import proj7 from '../assets/proj2.png'
 
 
 
@@ -48,4 +49,13 @@ export const ProjectList = [
       skills: "React, JavaScript, HTML, CSS, Tailwind CSS",
       git: 'https://github.com/GarrettWat/Stock-Checker',
       link: 'https://stockchecker.netlify.app/'
-    }]
+    },
+    {
+      name: "Level Up Gaming (Original)",
+      image: proj7,
+      skills: "React, TypeScript, HTML, CSS, MUI",
+      git: 'https://github.com/GarrettWat/ct-final',
+      link: 'https://steamchecker.netlify.app/'
+    }
+  
+  ]
