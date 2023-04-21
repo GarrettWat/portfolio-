@@ -12,7 +12,7 @@ function Home() {
         <div className="prompt">
             <p>A software developer with a passion for learning and creating</p>
             <a href="https://www.linkedin.com/in/garrett-waters-7953a2220/" target="_blank" title="LinkedIn"><LinkedInIcon/></a>
-            <a href="https://drive.google.com/file/d/1hDCfY7hVz9YQmAZvJf4mizhYpqfo0hIp/view" target="_blank" title='Resume'><EmailIcon/></a>
+            <a href="https://drive.google.com/file/d/16p_Q0xVAUM8wmK4EGbAefk0QB83EreHg/view?usp=sharing" target="_blank" title='Resume'><EmailIcon/></a>
             <a href="https://github.com/GarrettWat" target="_blank" title='Github'><GithubIcon/></a>
         </div>
        </div>
@@ -32,15 +32,15 @@ function Home() {
         <ol className='list'>
         <li className='item'>
             <h2>Programming Languages</h2>
-            <span>JavaScript, TypeScript, HTML, CSS</span>
+            <span>JavaScript, TypeScript, HTML, CSS, Python</span>
         </li>
         <li className='item'>
-            <h2>Frameworks</h2>
-            <span>React, Bootstrap, NodeJS, Restful API's, Tailwind CSS, ExpressJS</span>
+            <h2>Technologies</h2>
+            <span>React, Tailwind CSS, Redux, Next JS, Bootstrap, Git, VSCode, NPM, a11y, Netlify</span>
         </li>
         <li className='item'>
-            <h2>Tools</h2>
-            <span>a11y, Jest, Anaconda, Node Package Manager (NPM), Command Line, Github, Git, Heroku, Jupyter Notebook, Slack, Visual Studio Code, Netlify </span>
+            <h2>Prototyping</h2>
+            <span>Figma, Gimp</span>
         </li>
         </ol>
        </div>
